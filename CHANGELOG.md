@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-25)
+## Unreleased (2025-09-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0d7c7b1`](https://github.com/stdlib-js/stdlib/commit/0d7c7b148724969c79eef40805f7df7c5a61b32c) - **docs:** pass in proper argument in TSDoc example code for `random/array` packages _(by Philipp Burckhardt)_
 -   [`54da286`](https://github.com/stdlib-js/stdlib/commit/54da28610f5ee6b2aa181addb1775d32f79043ee) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 
 </details>
