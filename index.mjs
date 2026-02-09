@@ -1,4 +1,0 @@
-// Copyright (c) 2026 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import t from"https://cdn.jsdelivr.net/gh/stdlib-js/utils-define-nonenumerable-read-only-property@v0.2.3-esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/random-array-tools-ternary-factory@v0.2.3-esm/index.mjs";import s from"https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@v0.4.1-esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/array-defaults@v0.4.1-esm/index.mjs";import n from"https://cdn.jsdelivr.net/gh/stdlib-js/random-base-frechet@v0.2.1-esm/index.mjs";var d=e(n,s("real_floating_point_and_generic"),r.get("dtypes.real_floating_point")),i=d();t(i,"factory",d);const{assign:o}=i;export{o as assign,i as default,d as factory};
-//# sourceMappingURL=index.mjs.map
