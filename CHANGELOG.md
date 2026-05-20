@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-18)
+## Unreleased (2026-05-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2dd6ec1`](https://github.com/stdlib-js/stdlib/commit/2dd6ec1cc545dd4dd8e27131935c070e961209cb) - **docs:** update related packages sections [(#12211)](https://github.com/stdlib-js/stdlib/pull/12211) _(by stdlib-bot)_
 -   [`c7c1e58`](https://github.com/stdlib-js/stdlib/commit/c7c1e58acd2234bad33581f3f8fd83722e259023) - **bench:** refactor to use string interpolation in `@stdlib/random-array` [(#11416)](https://github.com/stdlib-js/stdlib/pull/11416) _(by Karan Anand)_
 
 </details>
